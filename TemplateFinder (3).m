@@ -1,3 +1,4 @@
+'Hello This is a test'
 clear
 clc
 load hfo_20_awake.mat
